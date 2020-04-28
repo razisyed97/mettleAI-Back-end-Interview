@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Predicting mental health remission with digital phenotyping",
+    "abstract": "Aliqua consequat mollit Lorem dolor nulla qui sunt tempor veniam eiusmod ullamco quis commodo.",
+    "room": 873,
+    "speaker": {
+      "name": "Razi Syed",
+      "company": "mettleAI Technologies Inc.",
+      "email": "razi@mettleai.com",
+      "bio": "Magna velit adipisicing ullamco sint duis nisi."
+    },
+    "attendees": [
+      {
+        "name": "Noor Syed",
+        "company": "Globe and Mail",
+        "email": "noor@mettleai.com",
+        "registered": "2020-04-24T02:15:04 +07:00"
+      },
+      {
+        "name": "Mohammed Ibrahim",
+        "company": "Apple",
+        "email": "mo@mettleai.com",
+        "registered": "2020-04-21T02:54:39 +07:00"
+      },
+      {
+        "name": "Alfred Mitchell",
+        "company": "Google",
+        "email": "alfredamitchell@google.com",
+        "registered": "2020-04-26T06:35:29 +07:00"
+      }
+    ]
+  },
+  {
+    "title": "Optimal speed and force to break a sheet of toilet paper",
+    "abstract": "Fugiat nisi et mollit consequat sint.",
+    "room": 343,
+    "speaker": {
+      "name": "Zainab Zafar",
+      "company": "UN",
+      "email": "zainab@un.com",
+      "bio": "Veniam do eu quis officia enim."
+    },
+    "attendees": []
+  }
+]
