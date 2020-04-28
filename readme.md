@@ -19,7 +19,7 @@ You can use the language and technology of your choosing. It's OK to try somethi
  
 ## Duration
  
-Up to 4 hours. We do not expect you to complete the assessment in this time.
+Up to 8 hours. We do not expect you to complete the assessment in this time.
  
 ## Bonuses:
  
