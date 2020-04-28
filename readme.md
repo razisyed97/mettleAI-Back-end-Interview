@@ -30,6 +30,7 @@ Up to 8 hours. We do not expect you to complete the assessment in this time.
  
 1. Upload your code to Github, Gitlab, or Bitbucket, ensuring that your solution is easily visible for reviewers, and include the following:
    - ALL the functionality of your API should be documented so we know what it does, and how to interact with it
+   - If you made any assumptions, what are they
    - Outline what else needs to be done if given more time
    - Instructions on how to run it
 2. Send via email to razi@mettleai.com
