@@ -1,5 +1,5 @@
 # mettleAI Back-End Developer Intern Interview
- 
+
 ## Interview Task
  
 mettleAI's conference is looking for someone to design a RESTful API for talks at a conference with some attendees. Some sample data is included in data.json.
